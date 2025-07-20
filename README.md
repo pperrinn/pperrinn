@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
-<h3 align="center">A passionate data engineer from Spain</h3>
+<h3 align="center">A passionate software engineer from Spain</h3>
 
 - 🔭 I’m currently working on **Roche Diagnostics**
 
