@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <h3 align="center">A passionate software engineer from Spain</h3>
 
-- 🔭 I’m currently working on **Roche Diagnostics**
+- 🔭 I’m currently working on **Galenicum Health** as a **clud and data engineer**
 
 - 👯 I’m looking to collaborate on **innovation projects that revolutionize the way we think and do things**
 
